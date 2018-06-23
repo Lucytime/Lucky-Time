@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+}
+
+header{
+    position: fixed;
+    background-color: black;
+    padding: 15px;
+    width: 100%;   
+}
+
+h1{
+    color:white;
+    margin:0;
+    font-size: 30px;
+    
+}
+
+#img1{
+    background-image: url('img/xau.jpg');
+    background-size: cover;
+    padding: 200px;
+    
+}
+
+#img2{
+    background-image: url('img/oi.jpg');
+    background-size: cover;
+    padding: 200px;
+}
+
+body{
+    color: red;
+    font-size: 50px;
+    font-family: 'Shrikhand', cursive;
+    text-align: left;
+    
+}
